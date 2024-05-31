@@ -1,5 +1,5 @@
 # Roll a Ball
-
+![Roll a Ball Game](C:\Users\maria\Documents\Rollaball\Roll-a-Ball\3d_unity.png)
 ## Overview
 ["Roll a Ball"](https://learn.unity.com/project/roll-a-ball?uv=2022.3) is a simple 3D game developed as part of the "3D-Unity Game Development" course at the [Romanian-American University](https://www.rau.ro/?lang=en). In this game, players control a ball that rolls around a platform, collecting objects while avoiding obstacles.
 
